@@ -1,0 +1,10 @@
+2025-02-27 16:03:38,112 - ERROR - ERROR ERR001: File not found - sensor_data.csv
+2025-02-27 16:03:38,113 - ERROR - ERROR ERR001: File not found - thresholds.csv
+2025-02-27 16:04:07,510 - ERROR - ERROR ERR001: File not found - data.sensor_data.csv
+2025-02-27 16:04:07,511 - ERROR - ERROR ERR001: File not found - data.thresholds.csv
+2025-02-27 17:17:27,592 - ERROR - ERROR ERR004: Thresholds not defined for some sensor types.
+2025-02-27 17:18:22,175 - ERROR - ERROR ERR004: Thresholds not defined for some sensor types. - {e}
+2025-02-27 17:18:55,220 - ERROR - ERROR ERR004: Thresholds not defined for some sensor types. - {e}
+2025-02-27 17:19:26,581 - ERROR - ERROR ERR004: Thresholds not defined for some sensor types.
+2025-02-27 17:23:03,386 - ERROR - ERROR ERR003: Processing error - No data to save for output/monthly_stats.csv
+2025-02-27 17:23:03,395 - ERROR - ERROR ERR003: Processing error - No data to save for output/outliers.csv

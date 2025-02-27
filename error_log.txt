@@ -1,0 +1,12 @@
+2025-02-27 15:38:23.785514 | ERR002 | Invalid data format: {'date': datetime.date(2024, 2, 15), 'sensor_type': 'temperature', 'value': '', 'unit': 'C', 'location_id': '105.0', 'month': ''} | Error: could not convert string to float: ''
+2025-02-27 15:38:23.789331 | ERR002 | Missing date: {'date': '', 'sensor_type': 'humidity', 'value': '45.0', 'unit': '%', 'location_id': '107.0', 'month': ''}
+2025-02-27 15:38:23.838956 | ERR004 | Thresholds not defined for sensor: invalid_sensor
+2025-02-27 15:43:07.411508 | ERR002 | Invalid data format: {'date': datetime.date(2024, 2, 15), 'sensor_type': 'temperature', 'value': '', 'unit': 'C', 'location_id': '105.0', 'month': ''} | Error: could not convert string to float: ''
+2025-02-27 15:43:07.412514 | ERR002 | Missing date: {'date': '', 'sensor_type': 'humidity', 'value': '45.0', 'unit': '%', 'location_id': '107.0', 'month': ''}
+2025-02-27 15:43:07.487279 | ERR004 | Thresholds not defined for sensor: invalid_sensor
+2025-02-27 15:47:38.234277 | ERR002 | Invalid data format: {'date': datetime.date(2024, 2, 15), 'sensor_type': 'temperature', 'value': '', 'unit': 'C', 'location_id': '105.0', 'month': ''} | Error: could not convert string to float: ''
+2025-02-27 15:47:38.235280 | ERR003 | Error processing .\sensor_data.csv: list index out of range
+2025-02-27 15:47:38.286092 | ERR004 | Thresholds not defined for sensor: invalid_sensor
+2025-02-27 15:49:34.297485 | ERR004 | Thresholds not defined for sensor: invalid_sensor
+2025-02-27 15:54:58.094550 | ERR004 | Thresholds not defined for sensor: invalid_sensor
+2025-02-27 15:56:00.521929 | ERR004 | Thresholds not defined for sensor: invalid_sensor

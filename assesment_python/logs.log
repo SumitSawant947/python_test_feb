@@ -1,0 +1,4 @@
+2025-02-27 17:47:08,997 - INFO - Starting sensor data processing...
+2025-02-27 17:47:09,081 - INFO - Report saved: reports/monthly_stats.csv
+2025-02-27 17:47:09,126 - INFO - Report saved: reports/outliers.csv
+2025-02-27 17:47:09,127 - INFO - Processing completed.

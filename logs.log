@@ -1,0 +1,12 @@
+2025-02-27 15:05:47,512 - INFO - Starting sensor data processing...
+2025-02-27 15:05:47,513 - ERROR - ERR001: File not found - data/sensor_data.csv
+2025-02-27 15:05:47,517 - ERROR - ERR001: File not found - data/thresholds.csv
+2025-02-27 15:05:47,519 - WARNING - No data to save for reports/monthly_stats.csv
+2025-02-27 15:05:47,521 - WARNING - No data to save for reports/outliers.csv
+2025-02-27 15:05:47,521 - INFO - Processing completed.
+2025-02-27 16:16:48,094 - INFO - Starting sensor data processing...
+2025-02-27 16:16:48,096 - ERROR - ERR001: File not found - data/sensor_data.csv
+2025-02-27 16:16:48,102 - ERROR - ERR001: File not found - data/thresholds.csv
+2025-02-27 16:16:48,103 - WARNING - No data to save for reports/monthly_stats.csv
+2025-02-27 16:16:48,103 - WARNING - No data to save for reports/outliers.csv
+2025-02-27 16:16:48,103 - INFO - Processing completed.

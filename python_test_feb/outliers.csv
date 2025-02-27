@@ -1,0 +1,9 @@
+sensor_type,value,threshold_exceeded
+co2,1031.58,Max
+humidity,990.08,Max
+light,994.6,Max
+motion,961.35,Max
+pressure,70.06,Min
+sound,956.3,Max
+temperature,1042.35,Max
+voc,1040.98,Max

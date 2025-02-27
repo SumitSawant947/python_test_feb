@@ -2949,4 +2949,3 @@ date,sensor_type,value,unit,location_id,threshold_exceeded
 2023-12-12 00:00:00,co2,744.16,ppm,105.0,Max
 2024-01-30 00:00:00,sound,25.56,dB,103.0,Min
 2023-10-01 00:00:00,sound,101.3,dB,104.0,Max
-2024-02-15,temperature,0.0,C,105.0,Min

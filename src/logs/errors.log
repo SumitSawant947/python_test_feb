@@ -1,0 +1,4 @@
+2025-02-27 17:17:21,758 - ERROR - ERROR Unable to fetch the file : [Errno 2] No such file or directory: 'sensor2_data.csv'
+2025-02-27 17:19:13,748 - ERROR - ERROR column name not found: to_numeric() got an unexpected keyword argument 'errors_code'
+2025-02-27 17:22:36,532 - ERROR - ERROR Check the path : Cannot save file into a non-existent directory: 'C:\Users\Suban23iShaik\PycharmProjects\Subani_shaik\Reports'
+2025-02-27 17:30:33,924 - ERROR - ERROR Unable to fetch the file : [Errno 2] No such file or directory: 'dr'
